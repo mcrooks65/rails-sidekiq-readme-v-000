@@ -45,5 +45,4 @@ group :development do
   gem 'spring'
 
   gem 'sidekiq'
-  gem 'redis'
 end
